@@ -723,7 +723,7 @@ authors:
       confirmed: Yes
     coi:
       string: "None"
-      lastapproved: !!str 2020-08-13
+      lastapproved: 2020-11-11
   -
     github: gregszetoAI
     name: Gregory L Szeto
